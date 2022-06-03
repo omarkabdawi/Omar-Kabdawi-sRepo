@@ -1,0 +1,9 @@
+addi R11 R0 69
+addi R1 R0 1024
+addi R2 R0 2048
+sw R11 R1 0
+addi R1 R1 1
+bne R1 R2 2
+addi R1 R1 1
+bne R1 R2 1
+j 2
