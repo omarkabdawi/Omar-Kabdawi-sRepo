@@ -1,5 +1,5 @@
-# Omar-k.-Yehia-sRepo
-Storage for projects worked on by Omar K. Yehia
+# OmarKabdawi-sRepo
+Storage for projects worked on by Omar Kabdawi
 
 
 This is a Java Project that Simulates a Computer Architecure not unlike the MIPS Architecture. The only main differences are that they are pipelined in the way you will find in the cycles pdf
